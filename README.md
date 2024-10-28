@@ -1,4 +1,3 @@
-# truncatedL1-2------------------------------------------------------------------
 Demo software for truncated l_{1-2} minimization examples in 
 
 Tian-Hui Ma, Yifei Lou, and Ting-Zhu Huang, Truncated l_{1-2} 
